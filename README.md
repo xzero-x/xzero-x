@@ -56,6 +56,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/xzero-x/Zero/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###

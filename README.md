@@ -46,7 +46,6 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/zerosecurity0"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
   <a href="https://tryhackme.com/p/saddi"><img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" /></a>
 </div>
 
